@@ -1,0 +1,61 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+
+.systembar {
+    display: flex;
+    /* border: solid 2px blue; */
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+}
+
+
+.systembar img {
+    /* border: solid 2px red; */
+    width: 106px;
+}
+
+.time {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center;
+
+}
+
+
+.bottom-icon {
+    /* border: solid 2px blue; */
+    height: 15px;
+}
+
+.bottom-icon img {
+    /* border: solid 2px blue; */
+    height: 15px;
+}
+
+.arrow {
+    margin-left: 180px;
+}
